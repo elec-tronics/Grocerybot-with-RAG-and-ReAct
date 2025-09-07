@@ -49,8 +49,7 @@ To ground the model it is required to connect the LLM to the internal company da
 In this project, only local databases are used. 
 * The Product & Recipe catalog are defined locally using Faiss
 * The details of a recipe and the suggested products to buy for that recipe are also stored locally
-
-
+![image](https://storage.googleapis.com/github-repo/img/language/reference_architectures/spotbot/spotbot_architecture.png)
 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request.
