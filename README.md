@@ -31,7 +31,7 @@ To do this, Retrieval Augmented Generation (RAG) is used, which attempts to miti
 ## 🛠️ Tech Stack
 **Programming Language**: Python
 
-**Frameworks & Libraries**: LangChain (RAG & ReAct implementation), FAISS (vector database for local retrieval), ChromaDB (optional local vector store for experimentation), PyPDF (document parsing if needed)
+**Frameworks & Libraries**: LangChain (RAG & ReAct implementation), FAISS (vector database for local retrieval), ChromaDB (optional local vector store for experimentation), PyPDF (document parsing)
 
 **LLM/AI**: Vertex AI Generative Models (Google Cloud)
 
